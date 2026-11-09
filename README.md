@@ -1,4 +1,4 @@
-# [Project Name] – Expense & Invoice Tracker
+# Expense & Invoice Tracker
 
 A front-end web app for tracking expenses and invoices, built to practice and demonstrate **React, Tailwind CSS, Figma-to-code design, and Git/GitHub workflow**.
 
